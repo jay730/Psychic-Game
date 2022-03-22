@@ -8,11 +8,10 @@ html {
   body {
       background-image: url("../../assets/images/psychicBackground.jpeg");
       font-family: "Arial", "Helvetica Neue", Helvetica, sans-serif;
-      
       font-size: 16px;
-      background-size: 100%;
+      background-size: 90%;
       background-position: center;
-      color:red;
+      color:rgb(255, 153, 0);
   
   }
   
@@ -24,6 +23,7 @@ html {
       width: 100%;
       max-width: 950px;
       margin: 0 auto;
+      
   }
   
   #space {
